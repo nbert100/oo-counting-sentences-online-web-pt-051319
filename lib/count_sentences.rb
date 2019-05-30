@@ -5,6 +5,7 @@ class String
   def sentence?
     self.end_with? ||= false
   end
+  end
 
   def question?
 
